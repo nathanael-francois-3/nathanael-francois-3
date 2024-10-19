@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nathanael Francois
+- 👋 Hi, I’m Nathanael François
 - 👀 I’m interested in robotic🤖 and business💲
 - 🌱 I’m currently learning python💻and arduino🪫
 - 👉 Here is how to reach me : nathanael.francois3@gmail.com
