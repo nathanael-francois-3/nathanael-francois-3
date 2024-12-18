@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathanael François
-- 👀 I’m interested in robotic🤖 and business💲
+- 👀 I’m interested in robotic🤖 
 - 🌱 I’m currently learning python💻and arduino🪫
 - 👉 Here is how to reach me : nathanael.francois3@gmail.com
 <!---
